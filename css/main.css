@@ -83,7 +83,7 @@ a:hover {
         letter-spacing: 5px;
    }
     h2 {
-        font-size: 22px;
+        font-size: 24px;
    }
     .column {
         flex: 0 auto;
@@ -107,6 +107,9 @@ a:hover {
     .title {
         font-size: 25px;
         letter-spacing: 5px;
+   }
+    h3 {
+        font-size: 22px;
    }
     .column {
         flex: 0 auto;
