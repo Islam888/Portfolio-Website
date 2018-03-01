@@ -25,7 +25,7 @@ html, body {
     max-width: 75%;
     direction: rtl;
     margin-top: 8px;
-    color: #f98163 
+    color: #f98163;
 }
 h2 {
     color: #075b7e;
@@ -41,6 +41,7 @@ h2 {
 .hero {
     flex: 100%;
     margin-top: 10px;
+    width: 100%;
 }
 h3 {
     margin: 25px 0 10px;
